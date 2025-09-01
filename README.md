@@ -162,7 +162,7 @@
     <div class="container">
       <nav>
         <!-- UBAH: Nama Kelurahan -->
-        <a class="brand" href="#beranda">Kelurahan Example</a>
+        <a class="brand" href="#beranda">Kelurahan Berkas</a>
 
         <div class="menu">
           <!-- Menu bisa ditambah/kurangi -->
